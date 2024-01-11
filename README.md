@@ -1,4 +1,17 @@
-# DIY Ferrofluid Display with Music-Responsive Coil Project
+# Ferrofluid Coil Project
+
+- [Ferrofluid Coil Project](#ferrofluid-coil-project)
+  - [Introduction](#introduction)
+  - [Materials List](#materials-list)
+  - [Tools Required](#tools-required)
+  - [Construction Guide](#construction-guide)
+    - [Step 1: Preparing the Ferrofluid Mixture](#step-1-preparing-the-ferrofluid-mixture)
+    - [Step 2: Setting Up the Coil](#step-2-setting-up-the-coil)
+    - [Step 3: Wiring the Controller](#step-3-wiring-the-controller)
+    - [Step 4: Connecting the Music Source](#step-4-connecting-the-music-source)
+    - [Step 5: Final Assembly](#step-5-final-assembly)
+    - [Step 6: Enjoy Your Ferrofluid Display!](#step-6-enjoy-your-ferrofluid-display)
+
 
 ## Introduction
 This project guide will walk you through creating a ferrofluid display. The display reacts to music using a coil with a ferrite core, controlled by a simple LED light controller. The ferrofluid is housed in a clear, flat bottle, creating an interactive visual spectacle that dances to the rhythm of your favorite tunes.
